@@ -16,7 +16,7 @@ The analysis consist of:
 ## Overall processing flow
 ![](img/Processing_flow.png)
 
-## Accuracy comparison chart
+## Accuracy comparison
 | Classifier                           | Accuracy | Precision | Recall | F1-Score |
 |--------------------------------------|----------|-----------|--------|----------|
 | Logistic Regression                  | 0.91     | 0.91      | 0.91   | 0.91     |
