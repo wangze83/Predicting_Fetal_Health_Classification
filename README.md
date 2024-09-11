@@ -5,9 +5,10 @@ Cardiotocography (CTG) plays a vital role in monitoring fetal heart rate and ute
 However, the analysis of intricate relationships among diverse medical parameters presents challenges because of the extensive amount, diversity, and speed of generated data.
 The primary objective of this project is to showcase the application of advanced analytical techniques, utilizing both Hive and PySpark, on a real-world dataset pertaining to fetal health monitoring. By harnessing the capabilities of big data tools, this initiative addresses the formidable challenge of effectively analyzing extensive medical data to accurately predict fetal health conditions. Through this undertaking, medical professionals are empowered to proactively manage fetal well-being based on data-driven insights.
 
+![](img/Cover.png)
+
 ## DATA ANALYSIS
 The analysis consist of:
-
 * Count Plot
 * Corelation Heat Map
 * Implot
